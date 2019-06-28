@@ -808,7 +808,7 @@ assert.dom('.progress-bar').hasPseudoElementStyle(':after', {
 
 [85]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-[86]: https://developer.mozilla.org/de/docs/Web/API/Document/querySelector
+[86]: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
 
 [87]: #doesNotExist
 
